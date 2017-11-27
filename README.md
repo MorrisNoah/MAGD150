@@ -10,7 +10,8 @@ I had a lot of fun making this sketch. This simple assignment turned in to a gam
 It took a while to figure some things out, like how to make the angled pedels follow the mouse,
 but it was rewarding to acheive a finished product.
 
-[Search for it.](www.google.com) https://github.com/MorrisNoah/MAGD150/tree/gh-pages/f17_magd150_lab07_Morris
+[Search for it.](www.google.com)
+https://github.com/MorrisNoah/MAGD150/tree/gh-pages/f17_magd150_lab07_Morris
 ```
 
 
