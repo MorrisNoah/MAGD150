@@ -37,7 +37,7 @@ guesswork as I cycled between running and viewing the sketch.
 
 ```
 
-[Link to Mario Box](https://github.com/MorrisNoah/MAGD150/tree/gh-pages/f17_magd150_lab10_Morris)
+[Link to Mario Box](https://github.com/MorrisNoah/MAGD150/tree/gh-pages/f17magd150lab10_Morris)
 
 
 ### Lab 6 - "Z" Screensaver
@@ -48,7 +48,7 @@ shaking ellipses, and they spawn at random locations.
 
 ```
 
-[Link to "Z" Screensaver](https://github.com/MorrisNoah/MAGD150/tree/gh-pages/f17_magd150_lab06_Morris)
+[Link to "Z" Screensaver](https://github.com/MorrisNoah/MAGD150/tree/gh-pages/f17magd150lab06_morris)
 
 
 ### Lab 3 - Bubble wand
