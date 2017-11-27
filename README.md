@@ -21,7 +21,7 @@ but it was rewarding to acheive a finished product.
 Another enjoyable assignment. The theme was mirrors, and I thought if implementing
 Michael Jackson's song as a joke. The user interaction was fun to figure out how to work.
 
-[Link](url) and ![Image](src)
+[Link](https://github.com/MorrisNoah/MAGD150/tree/gh-pages/f17_magd150_lab09_Morris)
 ```
 
 
